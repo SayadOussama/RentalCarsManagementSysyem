@@ -1,0 +1,28 @@
+D:\Real Life Projects with C# windowsform\ctrlPersonCard\ctrlPersonCard\obj\Debug\ctrlPersonCard.csproj.AssemblyReference.cache
+D:\Real Life Projects with C# windowsform\ctrlPersonCard\ctrlPersonCard\obj\Debug\ctrlPersonCard.Properties.Resources.resources
+D:\Real Life Projects with C# windowsform\ctrlPersonCard\ctrlPersonCard\obj\Debug\ctrlPersonCard.csproj.GenerateResource.cache
+D:\Real Life Projects with C# windowsform\ctrlPersonCard\ctrlPersonCard\obj\Debug\ctrlPersonCard.csproj.CoreCompileInputs.cache
+D:\Real Life Projects with C# windowsform\ctrlPersonCard\ctrlPersonCard\obj\Debug\ctrlPersonCard.ctrlPersonCard.resources
+D:\Real Life Projects with C# windowsform\ctrlPersonCard\ctrlPersonCard\bin\Debug\ctrlPersonCard.dll
+D:\Real Life Projects with C# windowsform\ctrlPersonCard\ctrlPersonCard\bin\Debug\ctrlPersonCard.pdb
+D:\Real Life Projects with C# windowsform\ctrlPersonCard\ctrlPersonCard\bin\Debug\BusinessLayer.dll
+D:\Real Life Projects with C# windowsform\ctrlPersonCard\ctrlPersonCard\bin\Debug\DataLayer.dll
+D:\Real Life Projects with C# windowsform\ctrlPersonCard\ctrlPersonCard\bin\Debug\BusinessLayer.pdb
+D:\Real Life Projects with C# windowsform\ctrlPersonCard\ctrlPersonCard\bin\Debug\DataLayer.pdb
+D:\Real Life Projects with C# windowsform\ctrlPersonCard\ctrlPersonCard\obj\Debug\ctrlPers.68AE12E7.Up2Date
+D:\Real Life Projects with C# windowsform\ctrlPersonCard\ctrlPersonCard\obj\Debug\ctrlPersonCard.dll
+D:\Real Life Projects with C# windowsform\ctrlPersonCard\ctrlPersonCard\obj\Debug\ctrlPersonCard.pdb
+D:\Real Life Projects with C# windowsform\renew Renatal Car\ctrlPersonCard\bin\Debug\ctrlPersonCard.dll
+D:\Real Life Projects with C# windowsform\renew Renatal Car\ctrlPersonCard\bin\Debug\ctrlPersonCard.pdb
+D:\Real Life Projects with C# windowsform\renew Renatal Car\ctrlPersonCard\bin\Debug\BusinessLayer.dll
+D:\Real Life Projects with C# windowsform\renew Renatal Car\ctrlPersonCard\bin\Debug\DataLayer.dll
+D:\Real Life Projects with C# windowsform\renew Renatal Car\ctrlPersonCard\bin\Debug\BusinessLayer.pdb
+D:\Real Life Projects with C# windowsform\renew Renatal Car\ctrlPersonCard\bin\Debug\DataLayer.pdb
+D:\Real Life Projects with C# windowsform\renew Renatal Car\ctrlPersonCard\obj\Debug\ctrlPersonCard.csproj.AssemblyReference.cache
+D:\Real Life Projects with C# windowsform\renew Renatal Car\ctrlPersonCard\obj\Debug\ctrlPersonCard.Properties.Resources.resources
+D:\Real Life Projects with C# windowsform\renew Renatal Car\ctrlPersonCard\obj\Debug\ctrlPersonCard.ctrlPersonCard.resources
+D:\Real Life Projects with C# windowsform\renew Renatal Car\ctrlPersonCard\obj\Debug\ctrlPersonCard.csproj.GenerateResource.cache
+D:\Real Life Projects with C# windowsform\renew Renatal Car\ctrlPersonCard\obj\Debug\ctrlPersonCard.csproj.CoreCompileInputs.cache
+D:\Real Life Projects with C# windowsform\renew Renatal Car\ctrlPersonCard\obj\Debug\ctrlPers.68AE12E7.Up2Date
+D:\Real Life Projects with C# windowsform\renew Renatal Car\ctrlPersonCard\obj\Debug\ctrlPersonCard.dll
+D:\Real Life Projects with C# windowsform\renew Renatal Car\ctrlPersonCard\obj\Debug\ctrlPersonCard.pdb

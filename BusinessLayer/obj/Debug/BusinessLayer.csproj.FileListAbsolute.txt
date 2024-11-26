@@ -1,0 +1,18 @@
+D:\Real Life Projects with C# windowsform\Rental Cars\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Real Life Projects with C# windowsform\Rental Cars\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Real Life Projects with C# windowsform\Rental Cars\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Real Life Projects with C# windowsform\Rental Cars\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Real Life Projects with C# windowsform\Rental Cars\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Real Life Projects with C# windowsform\Rental Cars\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Real Life Projects with C# windowsform\Rental Cars\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\Real Life Projects with C# windowsform\Rental Cars\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Real Life Projects with C# windowsform\Rental Cars\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Real Life Projects with C# windowsform\renew Renatal Car\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Real Life Projects with C# windowsform\renew Renatal Car\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Real Life Projects with C# windowsform\renew Renatal Car\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Real Life Projects with C# windowsform\renew Renatal Car\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Real Life Projects with C# windowsform\renew Renatal Car\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Real Life Projects with C# windowsform\renew Renatal Car\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Real Life Projects with C# windowsform\renew Renatal Car\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\Real Life Projects with C# windowsform\renew Renatal Car\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Real Life Projects with C# windowsform\renew Renatal Car\BusinessLayer\obj\Debug\BusinessLayer.pdb

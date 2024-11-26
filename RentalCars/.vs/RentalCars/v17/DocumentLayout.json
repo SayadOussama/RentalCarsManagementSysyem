@@ -1,0 +1,957 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\globalclasses\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:globalclasses\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\globalclasses\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:globalclasses\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\globalclasses\\clsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:globalclasses\\clsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|d:\\real life projects with c# windowsform\\renew renatal car\\rentalcars\\clients\\frmaddnewupdateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:clients\\frmaddnewupdateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\clients\\frmaddnewupdateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:clients\\frmaddnewupdateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\clients\\controls\\ctrlfindclientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:clients\\controls\\ctrlfindclientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\clients\\controls\\ctrlfindclientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:clients\\controls\\ctrlfindclientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62A9E10-A117-4F2E-B36C-B088DA43F124}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\renew renatal car\\businesslayer\\clsreservationcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2A6AC5-8B79-486B-8DE4-B0885D177CC2}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\renew renatal car\\datalayer\\clsdatareservationcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2A6AC5-8B79-486B-8DE4-B0885D177CC2}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\renew renatal car\\datalayer\\clsdatacarscontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62A9E10-A117-4F2E-B36C-B088DA43F124}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\renew renatal car\\businesslayer\\clscarscontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62A9E10-A117-4F2E-B36C-B088DA43F124}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\renew renatal car\\businesslayer\\clscartypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2A6AC5-8B79-486B-8DE4-B0885D177CC2}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\renew renatal car\\datalayer\\clsdatacartypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62A9E10-A117-4F2E-B36C-B088DA43F124}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\renew renatal car\\businesslayer\\clsclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2A6AC5-8B79-486B-8DE4-B0885D177CC2}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\renew renatal car\\datalayer\\clsdataclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62A9E10-A117-4F2E-B36C-B088DA43F124}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\renew renatal car\\businesslayer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62A9E10-A117-4F2E-B36C-B088DA43F124}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\renew renatal car\\businesslayer\\clsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62A9E10-A117-4F2E-B36C-B088DA43F124}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\renew renatal car\\businesslayer\\clsdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2A6AC5-8B79-486B-8DE4-B0885D177CC2}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\renew renatal car\\datalayer\\clsdatapeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\mainfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:mainfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\mainfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:mainfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\cartypes\\frmaddnewupdatecartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:cartypes\\frmaddnewupdatecartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\carscontainer\\frmcarmangement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:carscontainer\\frmcarmangement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\carreservation\\frmcarreservationsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:carreservation\\frmcarreservationsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\cartypes\\frmaddnewupdatecartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:cartypes\\frmaddnewupdatecartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\cartypes\\frmcartypesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:cartypes\\frmcartypesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\cartypes\\frmcartypesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:cartypes\\frmcartypesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\carscontainer\\frmaddnewupdatecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:carscontainer\\frmaddnewupdatecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\carscontainer\\frmcarmangement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:carscontainer\\frmcarmangement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\mainfrom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:mainfrom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\users\\frmaddnewupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:users\\frmaddnewupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\clients\\frmfindclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:clients\\frmfindclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\clients\\frmclientmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:clients\\frmclientmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\dashboard\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:dashboard\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\dashboard\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:dashboard\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2A6AC5-8B79-486B-8DE4-B0885D177CC2}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\renew renatal car\\datalayer\\clsdatadashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\users\\frmaddnewupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:users\\frmaddnewupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\users\\frmusersmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:users\\frmusersmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\users\\frmusersmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:users\\frmusersmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\users\\frmuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:users\\frmuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\users\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:users\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\users\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:users\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\users\\frmuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:users\\frmuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\carreservation\\frmcarreservationsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:carreservation\\frmcarreservationsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\carreservation\\frmcarreservationmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:carreservation\\frmcarreservationmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\carreservation\\frmcarreservationmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:carreservation\\frmcarreservationmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\carscontainer\\controls\\ctrlcarinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:carscontainer\\controls\\ctrlcarinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\carscontainer\\controls\\ctrlcarinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:carscontainer\\controls\\ctrlcarinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\carreservation\\frmcarreservationmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:carreservation\\frmcarreservationmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\clients\\frmclientmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:clients\\frmclientmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\carscontainer\\frmaddnewupdatecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:carscontainer\\frmaddnewupdatecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\carscontainer\\controls\\ctrlcarinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:carscontainer\\controls\\ctrlcarinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\carscontainer\\controls\\ctrlcarinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:carscontainer\\controls\\ctrlcarinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\carscontainer\\frmfindcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:carscontainer\\frmfindcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\carscontainer\\frmfindcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:carscontainer\\frmfindcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\clients\\frmfindclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05DC1-1112-42A4-B5D7-C6B39A3CBA31}|RentalCars.csproj|solutionrelative:clients\\frmfindclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmCarReservationSection.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarReservation\\frmCarReservationSection.cs",
+              "RelativeDocumentMoniker": "CarReservation\\frmCarReservationSection.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarReservation\\frmCarReservationSection.cs [Design]",
+              "RelativeToolTip": "CarReservation\\frmCarReservationSection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:11:37.635Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmCarMangement.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\frmCarMangement.cs",
+              "RelativeDocumentMoniker": "CarsContainer\\frmCarMangement.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\frmCarMangement.cs [Design]",
+              "RelativeToolTip": "CarsContainer\\frmCarMangement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:38:40.606Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAddNewUpdateClient.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Clients\\frmAddNewUpdateClient.cs",
+              "RelativeDocumentMoniker": "Clients\\frmAddNewUpdateClient.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Clients\\frmAddNewUpdateClient.cs",
+              "RelativeToolTip": "Clients\\frmAddNewUpdateClient.cs",
+              "ViewState": "AgIAACcBAAAAAAAAAAAhwDIBAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:02:10.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsValidation.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\GlobalClasses\\clsValidation.cs",
+              "RelativeDocumentMoniker": "GlobalClasses\\clsValidation.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\GlobalClasses\\clsValidation.cs",
+              "RelativeToolTip": "GlobalClasses\\clsValidation.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:20:14.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsGlobal.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\GlobalClasses\\clsGlobal.cs",
+              "RelativeDocumentMoniker": "GlobalClasses\\clsGlobal.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\GlobalClasses\\clsGlobal.cs",
+              "RelativeToolTip": "GlobalClasses\\clsGlobal.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:17:44.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Util.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\GlobalClasses\\Util.cs",
+              "RelativeDocumentMoniker": "GlobalClasses\\Util.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\GlobalClasses\\Util.cs",
+              "RelativeToolTip": "GlobalClasses\\Util.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:21:38.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAddNewUpdateClient.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Clients\\frmAddNewUpdateClient.cs",
+              "RelativeDocumentMoniker": "Clients\\frmAddNewUpdateClient.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Clients\\frmAddNewUpdateClient.cs [Design]",
+              "RelativeToolTip": "Clients\\frmAddNewUpdateClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:28:21.29Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ctrlFindClientInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Clients\\Controls\\ctrlFindClientInfo.cs",
+              "RelativeDocumentMoniker": "Clients\\Controls\\ctrlFindClientInfo.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Clients\\Controls\\ctrlFindClientInfo.cs [Design]",
+              "RelativeToolTip": "Clients\\Controls\\ctrlFindClientInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:22:46.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ctrlFindClientInfo.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Clients\\Controls\\ctrlFindClientInfo.cs",
+              "RelativeDocumentMoniker": "Clients\\Controls\\ctrlFindClientInfo.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Clients\\Controls\\ctrlFindClientInfo.cs",
+              "RelativeToolTip": "Clients\\Controls\\ctrlFindClientInfo.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAwwIgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:01:18.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsReservationCars.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\BusinessLayer\\clsReservationCars.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsReservationCars.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\BusinessLayer\\clsReservationCars.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsReservationCars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:22:44.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsDataReservationCars.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\DataLayer\\clsDataReservationCars.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataReservationCars.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\DataLayer\\clsDataReservationCars.cs",
+              "RelativeToolTip": "..\\DataLayer\\clsDataReservationCars.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAswBAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:14:50.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsCarTypes.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\BusinessLayer\\clsCarTypes.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsCarTypes.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\BusinessLayer\\clsCarTypes.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsCarTypes.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:41:09.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsDataCarsContainer.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\DataLayer\\clsDataCarsContainer.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataCarsContainer.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\DataLayer\\clsDataCarsContainer.cs",
+              "RelativeToolTip": "..\\DataLayer\\clsDataCarsContainer.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwDMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T22:56:56.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsCarsContainer.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\BusinessLayer\\clsCarsContainer.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsCarsContainer.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\BusinessLayer\\clsCarsContainer.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsCarsContainer.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAIwD4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:34:25.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsDataCarTypes.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\DataLayer\\clsDataCarTypes.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataCarTypes.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\DataLayer\\clsDataCarTypes.cs",
+              "RelativeToolTip": "..\\DataLayer\\clsDataCarTypes.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAG0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:52:14.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmAddNewUpdateCarType.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarTypes\\frmAddNewUpdateCarType.cs",
+              "RelativeDocumentMoniker": "CarTypes\\frmAddNewUpdateCarType.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarTypes\\frmAddNewUpdateCarType.cs [Design]",
+              "RelativeToolTip": "CarTypes\\frmAddNewUpdateCarType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:42:50.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsUsers.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\BusinessLayer\\clsUsers.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsUsers.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\BusinessLayer\\clsUsers.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsUsers.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswBYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:53:13.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsClients.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\BusinessLayer\\clsClients.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsClients.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\BusinessLayer\\clsClients.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsClients.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwG4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:41:59.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\BusinessLayer\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsPerson.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\BusinessLayer\\clsPerson.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsPerson.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwDoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:04:30.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsDataClients.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\DataLayer\\clsDataClients.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataClients.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\DataLayer\\clsDataClients.cs",
+              "RelativeToolTip": "..\\DataLayer\\clsDataClients.cs",
+              "ViewState": "AgIAAEwBAAAAAAAAAAAAAPMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:39:08.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmAddNewUpdateCarType.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarTypes\\frmAddNewUpdateCarType.cs",
+              "RelativeDocumentMoniker": "CarTypes\\frmAddNewUpdateCarType.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarTypes\\frmAddNewUpdateCarType.cs",
+              "RelativeToolTip": "CarTypes\\frmAddNewUpdateCarType.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAlwDwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:14:20.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsDashBoard.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\BusinessLayer\\clsDashBoard.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsDashBoard.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\BusinessLayer\\clsDashBoard.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsDashBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:17:05.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainFrom.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\MainFrom.cs",
+              "RelativeDocumentMoniker": "MainFrom.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\MainFrom.cs",
+              "RelativeToolTip": "MainFrom.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAlwIQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:59:09.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsDataPeople.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\DataLayer\\clsDataPeople.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataPeople.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\DataLayer\\clsDataPeople.cs",
+              "RelativeToolTip": "..\\DataLayer\\clsDataPeople.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:34:40.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmCarTypesManagement.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarTypes\\frmCarTypesManagement.cs",
+              "RelativeDocumentMoniker": "CarTypes\\frmCarTypesManagement.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarTypes\\frmCarTypesManagement.cs [Design]",
+              "RelativeToolTip": "CarTypes\\frmCarTypesManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:58:01.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainFrom.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\MainFrom.cs",
+              "RelativeDocumentMoniker": "MainFrom.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\MainFrom.cs [Design]",
+              "RelativeToolTip": "MainFrom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:38:52.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmCarTypesManagement.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarTypes\\frmCarTypesManagement.cs",
+              "RelativeDocumentMoniker": "CarTypes\\frmCarTypesManagement.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarTypes\\frmCarTypesManagement.cs",
+              "RelativeToolTip": "CarTypes\\frmCarTypesManagement.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T05:44:02.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmAddNewUpdateCar.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\frmAddNewUpdateCar.cs",
+              "RelativeDocumentMoniker": "CarsContainer\\frmAddNewUpdateCar.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\frmAddNewUpdateCar.cs [Design]",
+              "RelativeToolTip": "CarsContainer\\frmAddNewUpdateCar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:47:35.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmCarMangement.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\frmCarMangement.cs",
+              "RelativeDocumentMoniker": "CarsContainer\\frmCarMangement.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\frmCarMangement.cs",
+              "RelativeToolTip": "CarsContainer\\frmCarMangement.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAArwAsBAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:43:40.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainFrom.Designer.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\MainFrom.Designer.cs",
+              "RelativeDocumentMoniker": "MainFrom.Designer.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\MainFrom.Designer.cs",
+              "RelativeToolTip": "MainFrom.Designer.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAApwPQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:43:01.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmAddNewUpdateUser.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Users\\frmAddNewUpdateUser.cs",
+              "RelativeDocumentMoniker": "Users\\frmAddNewUpdateUser.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Users\\frmAddNewUpdateUser.cs [Design]",
+              "RelativeToolTip": "Users\\frmAddNewUpdateUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:45:21.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmFindClient.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Clients\\frmFindClient.cs",
+              "RelativeDocumentMoniker": "Clients\\frmFindClient.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Clients\\frmFindClient.cs [Design]",
+              "RelativeToolTip": "Clients\\frmFindClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:28:32.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmClientManagement.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Clients\\frmClientManagement.cs",
+              "RelativeDocumentMoniker": "Clients\\frmClientManagement.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Clients\\frmClientManagement.cs [Design]",
+              "RelativeToolTip": "Clients\\frmClientManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:38:01.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmDashBoard.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\DashBoard\\frmDashBoard.cs",
+              "RelativeDocumentMoniker": "DashBoard\\frmDashBoard.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\DashBoard\\frmDashBoard.cs [Design]",
+              "RelativeToolTip": "DashBoard\\frmDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:24:13.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmDashBoard.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\DashBoard\\frmDashBoard.cs",
+              "RelativeDocumentMoniker": "DashBoard\\frmDashBoard.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\DashBoard\\frmDashBoard.cs",
+              "RelativeToolTip": "DashBoard\\frmDashBoard.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAWwBkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:42:20.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "clsDataDashBoard.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\DataLayer\\clsDataDashBoard.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataDashBoard.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\DataLayer\\clsDataDashBoard.cs",
+              "RelativeToolTip": "..\\DataLayer\\clsDataDashBoard.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAAAM8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:02:30.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:56:47.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Login\\frmLogin.cs",
+              "RelativeToolTip": "Login\\frmLogin.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwE0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:42:57.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Login\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Login\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:26:36.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmUsersManagement.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Users\\frmUsersManagement.cs",
+              "RelativeDocumentMoniker": "Users\\frmUsersManagement.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Users\\frmUsersManagement.cs",
+              "RelativeToolTip": "Users\\frmUsersManagement.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:44:05.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmAddNewUpdateUser.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Users\\frmAddNewUpdateUser.cs",
+              "RelativeDocumentMoniker": "Users\\frmAddNewUpdateUser.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Users\\frmAddNewUpdateUser.cs",
+              "RelativeToolTip": "Users\\frmAddNewUpdateUser.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwDIBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:47:21.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmUsersManagement.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Users\\frmUsersManagement.cs",
+              "RelativeDocumentMoniker": "Users\\frmUsersManagement.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Users\\frmUsersManagement.cs [Design]",
+              "RelativeToolTip": "Users\\frmUsersManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:39:04.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmUserDetails.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Users\\frmUserDetails.cs",
+              "RelativeDocumentMoniker": "Users\\frmUserDetails.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Users\\frmUserDetails.cs [Design]",
+              "RelativeToolTip": "Users\\frmUserDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:35:53.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmUserDetails.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Users\\frmUserDetails.cs",
+              "RelativeDocumentMoniker": "Users\\frmUserDetails.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Users\\frmUserDetails.cs",
+              "RelativeToolTip": "Users\\frmUserDetails.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:37:29.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ctrlUserCard.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Users\\ctrlUserCard.cs",
+              "RelativeDocumentMoniker": "Users\\ctrlUserCard.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Users\\ctrlUserCard.cs",
+              "RelativeToolTip": "Users\\ctrlUserCard.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwEIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:32:21.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ctrlUserCard.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Users\\ctrlUserCard.cs",
+              "RelativeDocumentMoniker": "Users\\ctrlUserCard.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Users\\ctrlUserCard.cs [Design]",
+              "RelativeToolTip": "Users\\ctrlUserCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:31:29.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmCarReservationSection.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarReservation\\frmCarReservationSection.cs",
+              "RelativeDocumentMoniker": "CarReservation\\frmCarReservationSection.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarReservation\\frmCarReservationSection.cs",
+              "RelativeToolTip": "CarReservation\\frmCarReservationSection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:10:51.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmCarReservationManagement.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarReservation\\frmCarReservationManagement.cs",
+              "RelativeDocumentMoniker": "CarReservation\\frmCarReservationManagement.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarReservation\\frmCarReservationManagement.cs [Design]",
+              "RelativeToolTip": "CarReservation\\frmCarReservationManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:27:14.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmCarReservationManagement.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarReservation\\frmCarReservationManagement.cs",
+              "RelativeDocumentMoniker": "CarReservation\\frmCarReservationManagement.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarReservation\\frmCarReservationManagement.cs",
+              "RelativeToolTip": "CarReservation\\frmCarReservationManagement.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAIA6wLoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:20:16.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ctrlCarInfo.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\Controls\\ctrlCarInfo.cs",
+              "RelativeDocumentMoniker": "CarsContainer\\Controls\\ctrlCarInfo.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\Controls\\ctrlCarInfo.cs",
+              "RelativeToolTip": "CarsContainer\\Controls\\ctrlCarInfo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAWwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:39:49.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ctrlCarInfoWithFilter.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\Controls\\ctrlCarInfoWithFilter.cs",
+              "RelativeDocumentMoniker": "CarsContainer\\Controls\\ctrlCarInfoWithFilter.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\Controls\\ctrlCarInfoWithFilter.cs",
+              "RelativeToolTip": "CarsContainer\\Controls\\ctrlCarInfoWithFilter.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAIA0wFoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:23:42.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "frmCarReservationManagement.Designer.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarReservation\\frmCarReservationManagement.Designer.cs",
+              "RelativeDocumentMoniker": "CarReservation\\frmCarReservationManagement.Designer.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarReservation\\frmCarReservationManagement.Designer.cs",
+              "RelativeToolTip": "CarReservation\\frmCarReservationManagement.Designer.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAArwKgAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:54:32.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmClientManagement.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Clients\\frmClientManagement.cs",
+              "RelativeDocumentMoniker": "Clients\\frmClientManagement.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Clients\\frmClientManagement.cs",
+              "RelativeToolTip": "Clients\\frmClientManagement.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAmwKkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:33:01.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "frmAddNewUpdateCar.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\frmAddNewUpdateCar.cs",
+              "RelativeDocumentMoniker": "CarsContainer\\frmAddNewUpdateCar.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\frmAddNewUpdateCar.cs",
+              "RelativeToolTip": "CarsContainer\\frmAddNewUpdateCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:15:45.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ctrlCarInfoWithFilter.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\Controls\\ctrlCarInfoWithFilter.cs",
+              "RelativeDocumentMoniker": "CarsContainer\\Controls\\ctrlCarInfoWithFilter.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\Controls\\ctrlCarInfoWithFilter.cs [Design]",
+              "RelativeToolTip": "CarsContainer\\Controls\\ctrlCarInfoWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:14:50.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "frmFindCar.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\frmFindCar.cs",
+              "RelativeDocumentMoniker": "CarsContainer\\frmFindCar.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\frmFindCar.cs [Design]",
+              "RelativeToolTip": "CarsContainer\\frmFindCar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:29:45.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ctrlCarInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\Controls\\ctrlCarInfo.cs",
+              "RelativeDocumentMoniker": "CarsContainer\\Controls\\ctrlCarInfo.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\Controls\\ctrlCarInfo.cs [Design]",
+              "RelativeToolTip": "CarsContainer\\Controls\\ctrlCarInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:39:02.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "frmFindCar.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\frmFindCar.cs",
+              "RelativeDocumentMoniker": "CarsContainer\\frmFindCar.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\CarsContainer\\frmFindCar.cs",
+              "RelativeToolTip": "CarsContainer\\frmFindCar.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwBsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:33:07.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "frmFindClient.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Clients\\frmFindClient.cs",
+              "RelativeDocumentMoniker": "Clients\\frmFindClient.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\renew Renatal Car\\RentalCars\\Clients\\frmFindClient.cs",
+              "RelativeToolTip": "Clients\\frmFindClient.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:30:04.627Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
